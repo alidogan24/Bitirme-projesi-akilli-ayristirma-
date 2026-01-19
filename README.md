@@ -64,6 +64,13 @@ ve işlem tamamlandıktan sonra bant tekrar çalıştırılır.
 Bu yapı sayesinde sistem, minimum insan müdahalesi ile geri dönüşüm
 malzemelerini otomatik olarak algılayıp ayrıştırabilmektedir.
 
+## Katkıda Bulunanlar
+
+Bu proje, 3 kişilik bir ekip tarafından geliştirilmiştir:
+
+- **Ali Doğan Arkalı** 
+- **Umut Demirel** 
+- **Aleyna Aktan** 
 
 
 # Smart Conveyor and Robotic Arm System
@@ -119,3 +126,10 @@ the belt resumes operation after the process is completed.
 With this structure, the system is capable of automatically detecting and
 sorting recyclable materials with minimal human intervention.
 
+## Contributors
+
+This project was developed by a team of three members:
+
+- **Ali Doğan Arkalı** 
+- **Umut Demirel** 
+- **Aleyna Aktan** 
