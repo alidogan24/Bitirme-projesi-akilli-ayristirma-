@@ -12,6 +12,15 @@ Aşağıdaki fotoğrafta sistemin tam montajlı ve çalışır haldeki görünü
 
 ![System Overview](images/system_overview.jpeg)
 
+## PCB'nin Son Hali
+Aşağıdaki fotoğrafta, proje için tasarlanan PCB’nin son ve üretilmiş hali
+görülmektedir. Kart üzerinde STM32 Blackpill, güç yönetimi devreleri
+(3.3V, 5V ve ayarlanabilir 2–12V), izoleli röle, optokuplörler,
+WiFi haberleşme modülü ve çevre birimleri için gerekli bağlantılar
+entegre edilmiştir.
+
+![System Overview](images/pcb.jpeg)
+
 ## Kullanılan Donanımlar
 - STM32 F411CCU6 (Blackpill)
 - ESP32-CAM
@@ -86,6 +95,15 @@ using an STM32 Blackpill, ESP32-CAM, and NodeMCU WiFi module.
 The image below shows the fully assembled and operational system.
 
 ![System Overview](images/system_overview.jpeg)
+
+## Final PCB Design
+
+The image below shows the final manufactured version of the PCB designed
+for this project. The board integrates the STM32 Blackpill, power management
+circuits (3.3V, 5V, and adjustable 2–12V), an isolated relay, optocouplers,
+a WiFi communication module, and all required peripheral connections.
+
+![System Overview](images/pcb.jpeg)
 
 ## Documentation and Media
 - 📄 Graduation project presentation (PDF)
