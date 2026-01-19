@@ -105,6 +105,14 @@ a WiFi communication module, and all required peripheral connections.
 
 ![System Overview](images/pcb.jpeg)
 
+## Hardware Used
+- STM32 F411CCU6 (Blackpill)
+- ESP32-CAM
+- NodeMCU WiFi Module
+- 2 × IR sensors
+- OLED display
+- Isolated relay and optocouplers
+
 ## Documentation and Media
 - 📄 Graduation project presentation (PDF)
 - 📄 KiCad schematic (PDF)
